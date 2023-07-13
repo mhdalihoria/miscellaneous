@@ -1,2 +1,35 @@
-# miscellaneous
-Miscellaneous stuff that I want to keep hold of
+# CSS Framework Libraries:
+
+ 1. [Ant Design](https://ant.design/)
+ 2. Material UI
+ 3. BootStrap
+ 4. Tailwind
+
+# Vanilla Front-end Libraries:
+
+ 1. All-in-one solution for Vanilla CSS work: [webcode.tools](https://webcode.tools/generators/css/box-shadow)
+
+
+# React.js and Next.js Libraries:
+
+- **Animation Libraries:**
+	 1. React-Spring: [(react-spring.dev)](www.react-spring.dev)
+	 2. React Parallax Tilt: [(react-parallax-tilt)](https://mkosir.github.io/react-parallax-tilt/?path=/story/react-parallax-tilt--default)
+	 3. React Parallax Scroll: [(react-scroll-parallax)](https://react-scroll-parallax.damnthat.tv/docs/intro)
+	 -----------
+- **Icon Libraries:**
+	 1. [Ant Design Icons](https://ant.design/components/icon)
+	 2. [React Icons](https://react-icons.github.io/react-icons/)
+	 3. [Font Awesome](https://fontawesome.com/)
+	 --------
+	 
+
+# Other Great Stuff:
+
+- **Artificial Intelligence:**
+	1- [poe.com](https://poe.com): A combination of bots, most are supported by GPT 3.5
+	2- [Phind.com](phind.com/): Like google, but powered by AI 
+
+	-----
+- **CDN Resources:**
+	1- [cdnJS](https://cdnjs.com/libraries): All in one site, that has countless libraries as easy to use as simply copy pasting the link tags in your projects
