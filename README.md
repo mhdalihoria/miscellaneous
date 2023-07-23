@@ -9,6 +9,11 @@
 
  1. All-in-one solution for Vanilla CSS work: [webcode.tools](https://webcode.tools/generators/css/box-shadow)
 
+# SVG Generators:
+
+ 1. [Haikei](https://app.haikei.app/)
+ 2. [Shape Divider](https://www.shapedivider.app/)
+
 
 # React.js and Next.js Libraries:
 
