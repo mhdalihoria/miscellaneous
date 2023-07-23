@@ -8,6 +8,7 @@
 # Vanilla Front-end Libraries:
 
  1. All-in-one solution for Vanilla CSS work: [webcode.tools](https://webcode.tools/generators/css/box-shadow)
+ 2. Kute JS (animation Library): [Kute.js](https://thednp.github.io/kute.js/)
 
 # SVG Generators:
 
