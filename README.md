@@ -40,3 +40,8 @@
 	-----
 - **CDN Resources:**
 	1- [cdnJS](https://cdnjs.com/libraries): All in one site, that has countless libraries as easy to use as simply copy pasting the link tags in your projects
+  
+	-----
+- **Template Websites:**
+	1- [Templated](https://templated.co/).
+	2- [Html5Up](https://html5up.net/).
