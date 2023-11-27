@@ -22,6 +22,7 @@
 	 1. React-Spring: [(react-spring.dev)](www.react-spring.dev)
 	 2. React Parallax Tilt: [(react-parallax-tilt)](https://mkosir.github.io/react-parallax-tilt/?path=/story/react-parallax-tilt--default)
 	 3. React Parallax Scroll: [(react-scroll-parallax)](https://react-scroll-parallax.damnthat.tv/docs/intro)
+ 	 4. Farmer Motion: [(farmer-motion)](https://www.framer.com/motion/)
 	 -----------
 - **Icon Libraries:**
 	 1. [Ant Design Icons](https://ant.design/components/icon)
