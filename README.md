@@ -45,3 +45,7 @@
 - **Template Websites:**
 	1- [Templated](https://templated.co/).
 	2- [Html5Up](https://html5up.net/).
+ 
+	-----
+- **Websites Inspirations:**
+	1- [Awwwards](https://www.awwwards.com).
