@@ -29,6 +29,9 @@
 	 2. [React Icons](https://react-icons.github.io/react-icons/)
 	 3. [Font Awesome](https://fontawesome.com/)
 	 --------
+- **Carousel Libraries:**
+	 1. [Nuka Carousel]([https://ant.design/components/icon](https://commerce.nearform.com/open-source/nuka-carousel/))
+	 --------
 	 
 
 # Other Great Stuff:
