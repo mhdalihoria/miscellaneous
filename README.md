@@ -30,7 +30,7 @@
 	 3. [Font Awesome](https://fontawesome.com/)
 	 --------
 - **Carousel Libraries:**
-	 1. [Nuka Carousel]([https://ant.design/components/icon](https://commerce.nearform.com/open-source/nuka-carousel/)
+	 1. [Nuka Carousel](https://commerce.nearform.com/open-source/nuka-carousel/)
 	 --------
 	 
 
